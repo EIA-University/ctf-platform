@@ -1,0 +1,11 @@
+id,name,description,connection_info,next_id,max_attempts,value,category,type,state,requirements
+1,Da Rules!,"Facil, solamente lee las reglas ;)",,,0,50,Intro,standard,visible,
+2,Sherlock Hack,"Eres el responsable de la seguridad informática de una empresa que ha sufrido un ataque. Con el fin de cumplir tu labor, hemos logrado acceder al ordenador del principal sospechoso y hemos descubierto ciertos datos que resultan desconocidos para nosotros. Es posible que se trate de una imagen, texto en formato ASCII o incluso un registro de actividades de red.
+
+> eJxrYJm6nAECeviLkxMLKvVyEitTi4r1coym9LC6lmSkFk2ZPMW5kINB/f///wyCSsYuoRwMrgwMyQyMDAwObCtuH1jByMgBBCyXGEShRjEEMCkwTHvPwBAa7BqkkJGYnJ1axBXgGBysEOrq6VjtbJhkXBRsnB5aZJhikhJvXBxvmFtgUFRikldirOhQy+XjGRzCNaV1StAUDXfHmxECdyoZl/uBQMmUJD0Aips0ag==
+
+¿Podrías encontrar alguna informacion que nos pueda llevar al atacante? No se, como una flag depronto ;)",,,0,100,Crypto,standard,visible,
+3,El Arte de los Encoders: Protegiendo la UEIA,"Se logro interceptar una data en medio de una auditoria de un equipo de la biblioteca de la UEIA, sera que es posible que puedas obtener alguna informacion?",,,0,150,Crypto,standard,visible,
+4,Ubicame!,"Nos encontramos en uno de los laboratorios una imagen misteriosa, parece dejada por el atacante, ayudanos a descubrir que significa
+
+> La flag tiene el formato UEIA{texto_lugar}",,,0,250,Stegano,standard,visible,
